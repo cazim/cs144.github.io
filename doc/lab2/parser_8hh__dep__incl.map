@@ -1,12 +1,13 @@
 <map id="/home/cs144/sponge/libsponge/util/parser.hh" name="/home/cs144/sponge/libsponge/util/parser.hh">
-<area shape="rect" id="node2" href="$parser__dt_8cc.html" title="/home/cs144/sponge\l/doctests/parser_dt.cc" alt="" coords="5,102,157,143"/>
-<area shape="rect" id="node3" href="$tcp__header_8hh.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_header.hh" alt="" coords="181,95,333,151"/>
-<area shape="rect" id="node6" href="$tcp__segment_8cc.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_segment.cc" alt="" coords="295,303,447,359"/>
-<area shape="rect" id="node11" href="$parser_8cc.html" title="/home/cs144/sponge\l/libsponge/util/parser.cc" alt="" coords="408,102,568,143"/>
-<area shape="rect" id="node4" href="$tcp__header_8cc.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_header.cc" alt="" coords="5,199,157,255"/>
-<area shape="rect" id="node5" href="$tcp__segment_8hh.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_segment.hh" alt="" coords="181,199,333,255"/>
-<area shape="rect" id="node7" href="$tcp__receiver_8hh.html" title="/home/cs144/sponge\l/libsponge/tcp_receiver.hh" alt="" coords="95,310,270,351"/>
-<area shape="rect" id="node8" href="$tcp__state_8hh.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_state.hh" alt="" coords="13,407,165,463"/>
-<area shape="rect" id="node10" href="$tcp__receiver_8cc.html" title="/home/cs144/sponge\l/libsponge/tcp_receiver.cc" alt="" coords="190,414,365,455"/>
-<area shape="rect" id="node9" href="$tcp__state_8cc.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_state.cc" alt="" coords="13,511,165,567"/>
+<area shape="rect" id="node1" title=" " alt="" coords="234,5,393,47"/>
+<area shape="rect" id="node2" href="$parser__dt_8cc.html" title=" " alt="" coords="5,102,157,143"/>
+<area shape="rect" id="node3" href="$tcp__header_8hh.html" title=" " alt="" coords="181,95,333,151"/>
+<area shape="rect" id="node6" href="$tcp__segment_8cc.html" title=" " alt="" coords="295,303,447,359"/>
+<area shape="rect" id="node11" href="$parser_8cc.html" title=" " alt="" coords="409,102,567,143"/>
+<area shape="rect" id="node4" href="$tcp__header_8cc.html" title=" " alt="" coords="5,199,157,255"/>
+<area shape="rect" id="node5" href="$tcp__segment_8hh.html" title=" " alt="" coords="181,199,333,255"/>
+<area shape="rect" id="node7" href="$tcp__receiver_8hh.html" title=" " alt="" coords="97,310,271,351"/>
+<area shape="rect" id="node8" href="$tcp__state_8hh.html" title=" " alt="" coords="15,407,167,463"/>
+<area shape="rect" id="node10" href="$tcp__receiver_8cc.html" title=" " alt="" coords="191,414,364,455"/>
+<area shape="rect" id="node9" href="$tcp__state_8cc.html" title=" " alt="" coords="15,511,167,567"/>
 </map>

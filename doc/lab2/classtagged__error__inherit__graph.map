@@ -1,4 +1,5 @@
 <map id="tagged_error" name="tagged_error">
-<area shape="rect" id="node3" href="$classunix__error.html" title="a tagged_error for syscalls " alt="" coords="28,155,107,181"/>
-<area shape="rect" id="node2" href="/home/cs144/sponge/etc/cppreference-doxygen-web.tag.xml$cpp/error/system_error.html" title="std::system_error" alt="" coords="5,5,129,32"/>
+<area shape="rect" id="node1" title="std::system_error plus the name of what was being attempted" alt="" coords="20,80,115,107"/>
+<area shape="rect" id="node3" href="$classunix__error.html" title="a tagged_error for syscalls" alt="" coords="28,155,107,181"/>
+<area shape="rect" id="node2" href="/home/cs144/sponge/etc/cppreference-doxygen-web.tag.xml$cpp/error/system_error.html" title=" " alt="" coords="5,5,129,32"/>
 </map>

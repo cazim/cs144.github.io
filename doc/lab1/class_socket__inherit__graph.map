@@ -1,6 +1,7 @@
 <map id="Socket" name="Socket">
-<area shape="rect" id="node3" href="$class_local_stream_socket.html" title="A wrapper around Unix&#45;domain stream sockets. " alt="" coords="5,155,141,181"/>
-<area shape="rect" id="node4" href="$class_t_c_p_socket.html" title="A wrapper around TCP sockets. " alt="" coords="165,155,256,181"/>
-<area shape="rect" id="node5" href="$class_u_d_p_socket.html" title="A wrapper around UDP sockets. " alt="" coords="281,155,373,181"/>
-<area shape="rect" id="node2" href="$class_file_descriptor.html" title="A reference&#45;counted handle to a file descriptor. " alt="" coords="159,5,262,32"/>
+<area shape="rect" id="node1" title="Base class for network sockets (TCP, UDP, etc.)" alt="" coords="179,80,242,107"/>
+<area shape="rect" id="node3" href="$class_local_stream_socket.html" title="A wrapper around Unix&#45;domain stream sockets." alt="" coords="5,155,141,181"/>
+<area shape="rect" id="node4" href="$class_t_c_p_socket.html" title="A wrapper around TCP sockets." alt="" coords="165,155,256,181"/>
+<area shape="rect" id="node5" href="$class_u_d_p_socket.html" title="A wrapper around UDP sockets." alt="" coords="281,155,373,181"/>
+<area shape="rect" id="node2" href="$class_file_descriptor.html" title="A reference&#45;counted handle to a file descriptor." alt="" coords="159,5,262,32"/>
 </map>

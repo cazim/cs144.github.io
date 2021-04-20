@@ -1,7 +1,8 @@
 <map id="/home/cs144/sponge/libsponge/stream_reassembler.hh" name="/home/cs144/sponge/libsponge/stream_reassembler.hh">
-<area shape="rect" id="node2" href="$stream__reassembler_8cc.html" title="/home/cs144/sponge\l/libsponge/stream_reassembler.cc" alt="" coords="5,95,227,136"/>
-<area shape="rect" id="node3" href="$tcp__receiver_8hh.html" title="/home/cs144/sponge\l/libsponge/tcp_receiver.hh" alt="" coords="251,95,426,136"/>
-<area shape="rect" id="node4" href="$tcp__state_8hh.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_state.hh" alt="" coords="168,184,320,240"/>
-<area shape="rect" id="node6" href="$tcp__receiver_8cc.html" title="/home/cs144/sponge\l/libsponge/tcp_receiver.cc" alt="" coords="345,191,519,233"/>
-<area shape="rect" id="node5" href="$tcp__state_8cc.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_state.cc" alt="" coords="168,288,320,344"/>
+<area shape="rect" id="node1" title=" " alt="" coords="116,5,336,47"/>
+<area shape="rect" id="node2" href="$stream__reassembler_8cc.html" title=" " alt="" coords="5,95,225,136"/>
+<area shape="rect" id="node3" href="$tcp__receiver_8hh.html" title=" " alt="" coords="250,95,423,136"/>
+<area shape="rect" id="node4" href="$tcp__state_8hh.html" title=" " alt="" coords="167,184,319,240"/>
+<area shape="rect" id="node6" href="$tcp__receiver_8cc.html" title=" " alt="" coords="343,191,517,233"/>
+<area shape="rect" id="node5" href="$tcp__state_8cc.html" title=" " alt="" coords="167,288,319,344"/>
 </map>

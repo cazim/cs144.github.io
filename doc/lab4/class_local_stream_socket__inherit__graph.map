@@ -1,6 +1,7 @@
 <map id="LocalStreamSocket" name="LocalStreamSocket">
-<area shape="rect" id="node4" href="$class_t_c_p_sponge_socket.html" title="Multithreaded wrapper around TCPConnection that approximates the Unix sockets API. " alt="" coords="17,229,217,256"/>
-<area shape="rect" id="node2" href="$class_socket.html" title="Base class for network sockets (TCP, UDP, etc.) " alt="" coords="86,80,149,107"/>
-<area shape="rect" id="node3" href="$class_file_descriptor.html" title="A reference&#45;counted handle to a file descriptor. " alt="" coords="66,5,169,32"/>
-<area shape="rect" id="node5" href="$class_c_s144_t_c_p_socket.html" title="Helper class that makes a TCPOverIPv4SpongeSocket behave more like a (kernel) TCPSocket. " alt="" coords="5,304,229,345"/>
+<area shape="rect" id="node1" title="A wrapper around Unix&#45;domain stream sockets." alt="" coords="49,155,185,181"/>
+<area shape="rect" id="node4" href="$class_t_c_p_sponge_socket.html" title="Multithreaded wrapper around TCPConnection that approximates the Unix sockets API." alt="" coords="18,229,217,256"/>
+<area shape="rect" id="node2" href="$class_socket.html" title="Base class for network sockets (TCP, UDP, etc.)" alt="" coords="86,80,149,107"/>
+<area shape="rect" id="node3" href="$class_file_descriptor.html" title="A reference&#45;counted handle to a file descriptor." alt="" coords="66,5,169,32"/>
+<area shape="rect" id="node5" href="$class_c_s144_t_c_p_socket.html" title="Helper class that makes a TCPOverIPv4SpongeSocket behave more like a (kernel) TCPSocket." alt="" coords="5,304,229,345"/>
 </map>

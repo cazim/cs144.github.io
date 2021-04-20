@@ -1,9 +1,9 @@
 <map id="Socket" name="Socket">
-<area shape="rect" id="node3" href="$class_local_stream_socket.html" title="A wrapper around Unix&#45;domain stream sockets. " alt="" coords="49,155,185,181"/>
-<area shape="rect" id="node6" href="$class_t_c_p_socket.html" title="A wrapper around TCP sockets. " alt="" coords="209,155,300,181"/>
-<area shape="rect" id="node7" href="$class_u_d_p_socket.html" title="A wrapper around UDP sockets. " alt="" coords="325,155,417,181"/>
-<area shape="rect" id="node2" href="$class_file_descriptor.html" title="A reference&#45;counted handle to a file descriptor. " alt="" coords="203,5,306,32"/>
-<area shape="rect" id="node4" href="$class_t_c_p_sponge_socket.html" title="Multithreaded wrapper around TCPConnection that approximates the Unix sockets API. " alt="" coords="17,229,217,256"/>
-<area shape="rect" id="node5" href="$class_c_s144_t_c_p_socket.html" title="Helper class that makes a TCPOverIPv4SpongeSocket behave more like a (kernel) TCPSocket. " alt="" coords="5,304,229,345"/>
-<area shape="rect" id="node8" href="$class_t_c_p_over_u_d_p_socket_adapter.html" title="A FD adaptor that reads and writes TCP segments in UDP payloads. " alt="" coords="275,229,467,256"/>
+<area shape="rect" id="node1" title="Base class for network sockets (TCP, UDP, etc.)" alt="" coords="223,80,286,107"/>
+<area shape="rect" id="node3" href="$class_local_stream_socket.html" title="A wrapper around Unix&#45;domain stream sockets." alt="" coords="49,155,185,181"/>
+<area shape="rect" id="node6" href="$class_t_c_p_socket.html" title="A wrapper around TCP sockets." alt="" coords="209,155,300,181"/>
+<area shape="rect" id="node7" href="$class_u_d_p_socket.html" title="A wrapper around UDP sockets." alt="" coords="325,155,417,181"/>
+<area shape="rect" id="node2" href="$class_file_descriptor.html" title="A reference&#45;counted handle to a file descriptor." alt="" coords="203,5,306,32"/>
+<area shape="rect" id="node4" href="$class_t_c_p_sponge_socket.html" title="Multithreaded wrapper around TCPConnection that approximates the Unix sockets API." alt="" coords="18,229,217,256"/>
+<area shape="rect" id="node5" href="$class_c_s144_t_c_p_socket.html" title="Helper class that makes a TCPOverIPv4SpongeSocket behave more like a (kernel) TCPSocket." alt="" coords="5,304,229,345"/>
 </map>

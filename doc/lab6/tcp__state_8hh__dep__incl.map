@@ -1,11 +1,12 @@
 <map id="/home/cs144/sponge/libsponge/tcp_helpers/tcp_state.hh" name="/home/cs144/sponge/libsponge/tcp_helpers/tcp_state.hh">
-<area shape="rect" id="node2" href="$tcp__connection_8hh.html" title="/home/cs144/sponge\l/libsponge/tcp_connection.hh" alt="" coords="195,117,386,158"/>
-<area shape="rect" id="node10" href="$tcp__state_8cc.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_state.cc" alt="" coords="411,109,563,165"/>
-<area shape="rect" id="node3" href="$tcp__benchmark_8cc.html" title="/home/cs144/sponge\l/apps/tcp_benchmark.cc" alt="" coords="5,221,171,262"/>
-<area shape="rect" id="node4" href="$tcp__connection_8cc.html" title="/home/cs144/sponge\l/libsponge/tcp_connection.cc" alt="" coords="195,221,386,262"/>
-<area shape="rect" id="node5" href="$tcp__sponge__socket_8hh.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_sponge_socket.hh" alt="" coords="411,213,568,269"/>
-<area shape="rect" id="node6" href="$tcp__ip__ethernet_8cc.html" title="/home/cs144/sponge\l/apps/tcp_ip_ethernet.cc" alt="" coords="144,325,309,366"/>
-<area shape="rect" id="node7" href="$tcp__ipv4_8cc.html" title="/home/cs144/sponge\l/apps/tcp_ipv4.cc" alt="" coords="334,325,477,366"/>
-<area shape="rect" id="node8" href="$tcp__udp_8cc.html" title="/home/cs144/sponge\l/apps/tcp_udp.cc" alt="" coords="501,325,643,366"/>
-<area shape="rect" id="node9" href="$tcp__sponge__socket_8cc.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_sponge_socket.cc" alt="" coords="668,317,825,373"/>
+<area shape="rect" id="node1" title=" " alt="" coords="312,5,464,61"/>
+<area shape="rect" id="node2" href="$tcp__connection_8hh.html" title=" " alt="" coords="195,117,386,158"/>
+<area shape="rect" id="node10" href="$tcp__state_8cc.html" title=" " alt="" coords="411,109,563,165"/>
+<area shape="rect" id="node3" href="$tcp__benchmark_8cc.html" title=" " alt="" coords="5,221,171,262"/>
+<area shape="rect" id="node4" href="$tcp__connection_8cc.html" title=" " alt="" coords="195,221,386,262"/>
+<area shape="rect" id="node5" href="$tcp__sponge__socket_8hh.html" title=" " alt="" coords="411,213,568,269"/>
+<area shape="rect" id="node6" href="$tcp__ip__ethernet_8cc.html" title=" " alt="" coords="144,325,309,366"/>
+<area shape="rect" id="node7" href="$tcp__ipv4_8cc.html" title=" " alt="" coords="334,325,477,366"/>
+<area shape="rect" id="node8" href="$tcp__udp_8cc.html" title=" " alt="" coords="501,325,643,366"/>
+<area shape="rect" id="node9" href="$tcp__sponge__socket_8cc.html" title=" " alt="" coords="668,317,825,373"/>
 </map>

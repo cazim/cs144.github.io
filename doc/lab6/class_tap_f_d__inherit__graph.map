@@ -1,4 +1,5 @@
 <map id="TapFD" name="TapFD">
-<area shape="rect" id="node2" href="$class_tun_tap_f_d.html" title="A FileDescriptor to a Linux TUN/TAP device. " alt="" coords="15,80,99,107"/>
-<area shape="rect" id="node3" href="$class_file_descriptor.html" title="A reference&#45;counted handle to a file descriptor. " alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node1" title="A FileDescriptor to a Linux TAP device." alt="" coords="26,155,87,181"/>
+<area shape="rect" id="node2" href="$class_tun_tap_f_d.html" title="A FileDescriptor to a Linux TUN/TAP device." alt="" coords="15,80,98,107"/>
+<area shape="rect" id="node3" href="$class_file_descriptor.html" title="A reference&#45;counted handle to a file descriptor." alt="" coords="5,5,108,32"/>
 </map>

@@ -1,6 +1,7 @@
 <map id="CS144TCPSocket" name="CS144TCPSocket">
-<area shape="rect" id="node2" href="$class_t_c_p_sponge_socket.html" title="Multithreaded wrapper around TCPConnection that approximates the Unix sockets API. " alt="" coords="5,229,195,256"/>
-<area shape="rect" id="node3" href="$class_local_stream_socket.html" title="A wrapper around Unix&#45;domain stream sockets. " alt="" coords="32,155,168,181"/>
-<area shape="rect" id="node4" href="$class_socket.html" title="Base class for network sockets (TCP, UDP, etc.) " alt="" coords="69,80,131,107"/>
-<area shape="rect" id="node5" href="$class_file_descriptor.html" title="A reference&#45;counted handle to a file descriptor. " alt="" coords="49,5,151,32"/>
+<area shape="rect" id="node1" title="Helper class that makes a TCPOverIPv4SpongeSocket behave more like a (kernel) TCPSocket." alt="" coords="35,304,165,331"/>
+<area shape="rect" id="node2" href="$class_t_c_p_sponge_socket.html" title="Multithreaded wrapper around TCPConnection that approximates the Unix sockets API." alt="" coords="5,229,195,256"/>
+<area shape="rect" id="node3" href="$class_local_stream_socket.html" title="A wrapper around Unix&#45;domain stream sockets." alt="" coords="32,155,168,181"/>
+<area shape="rect" id="node4" href="$class_socket.html" title="Base class for network sockets (TCP, UDP, etc.)" alt="" coords="69,80,131,107"/>
+<area shape="rect" id="node5" href="$class_file_descriptor.html" title="A reference&#45;counted handle to a file descriptor." alt="" coords="49,5,151,32"/>
 </map>

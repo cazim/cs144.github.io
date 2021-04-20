@@ -1,4 +1,6 @@
 <map id="FdAdapterBase" name="FdAdapterBase">
-<area shape="rect" id="node2" href="$class_t_c_p_over_i_pv4_over_tun_fd_adapter.html" title="A FD adapter for IPv4 datagrams read from and written to a TUN device. " alt="" coords="5,80,220,107"/>
-<area shape="rect" id="node3" href="$class_t_c_p_over_u_d_p_socket_adapter.html" title="A FD adaptor that reads and writes TCP segments in UDP payloads. " alt="" coords="245,80,437,107"/>
+<area shape="rect" id="node1" title="Basic functionality for file descriptor adaptors." alt="" coords="154,5,266,32"/>
+<area shape="rect" id="node2" href="$class_t_c_p_over_i_pv4_adapter.html" title="A converter from TCP segments to serialized IPv4 datagrams." alt="" coords="38,80,187,107"/>
+<area shape="rect" id="node4" href="$class_t_c_p_over_u_d_p_socket_adapter.html" title="A FD adaptor that reads and writes TCP segments in UDP payloads." alt="" coords="211,80,403,107"/>
+<area shape="rect" id="node3" href="$class_t_c_p_over_i_pv4_over_tun_fd_adapter.html" title="A FD adapter for IPv4 datagrams read from and written to a TUN device." alt="" coords="5,155,220,181"/>
 </map>

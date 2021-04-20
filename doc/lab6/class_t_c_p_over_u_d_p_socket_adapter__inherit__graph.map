@@ -1,3 +1,4 @@
 <map id="TCPOverUDPSocketAdapter" name="TCPOverUDPSocketAdapter">
-<area shape="rect" id="node2" href="$class_fd_adapter_base.html" title="Basic functionality for file descriptor adaptors. " alt="" coords="45,5,157,32"/>
+<area shape="rect" id="node1" title="A FD adaptor that reads and writes TCP segments in UDP payloads." alt="" coords="5,80,197,107"/>
+<area shape="rect" id="node2" href="$class_fd_adapter_base.html" title="Basic functionality for file descriptor adaptors." alt="" coords="45,5,157,32"/>
 </map>

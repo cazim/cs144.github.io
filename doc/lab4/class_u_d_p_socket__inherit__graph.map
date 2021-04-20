@@ -1,5 +1,5 @@
 <map id="UDPSocket" name="UDPSocket">
-<area shape="rect" id="node4" href="$class_t_c_p_over_u_d_p_socket_adapter.html" title="A FD adaptor that reads and writes TCP segments in UDP payloads. " alt="" coords="5,229,197,256"/>
-<area shape="rect" id="node2" href="$class_socket.html" title="Base class for network sockets (TCP, UDP, etc.) " alt="" coords="70,80,133,107"/>
-<area shape="rect" id="node3" href="$class_file_descriptor.html" title="A reference&#45;counted handle to a file descriptor. " alt="" coords="50,5,153,32"/>
+<area shape="rect" id="node1" title="A wrapper around UDP sockets." alt="" coords="11,155,103,181"/>
+<area shape="rect" id="node2" href="$class_socket.html" title="Base class for network sockets (TCP, UDP, etc.)" alt="" coords="25,80,88,107"/>
+<area shape="rect" id="node3" href="$class_file_descriptor.html" title="A reference&#45;counted handle to a file descriptor." alt="" coords="5,5,108,32"/>
 </map>

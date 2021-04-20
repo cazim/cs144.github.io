@@ -1,4 +1,5 @@
 <map id="LocalStreamSocket" name="LocalStreamSocket">
-<area shape="rect" id="node2" href="$class_socket.html" title="Base class for network sockets (TCP, UDP, etc.) " alt="" coords="42,80,105,107"/>
-<area shape="rect" id="node3" href="$class_file_descriptor.html" title="A reference&#45;counted handle to a file descriptor. " alt="" coords="22,5,125,32"/>
+<area shape="rect" id="node1" title="A wrapper around Unix&#45;domain stream sockets." alt="" coords="5,155,141,181"/>
+<area shape="rect" id="node2" href="$class_socket.html" title="Base class for network sockets (TCP, UDP, etc.)" alt="" coords="42,80,105,107"/>
+<area shape="rect" id="node3" href="$class_file_descriptor.html" title="A reference&#45;counted handle to a file descriptor." alt="" coords="22,5,125,32"/>
 </map>

@@ -1,5 +1,6 @@
 <map id="TCPOverIPv4Adapter" name="TCPOverIPv4Adapter">
-<area shape="rect" id="node3" href="$class_t_c_p_over_i_pv4_over_ethernet_adapter.html" title="A FD adapter for IPv4 datagrams read from and written to a TAP device. " alt="" coords="5,155,232,181"/>
-<area shape="rect" id="node4" href="$class_t_c_p_over_i_pv4_over_tun_fd_adapter.html" title="A FD adapter for IPv4 datagrams read from and written to a TUN device. " alt="" coords="257,155,471,181"/>
-<area shape="rect" id="node2" href="$class_fd_adapter_base.html" title="Basic functionality for file descriptor adaptors. " alt="" coords="185,5,297,32"/>
+<area shape="rect" id="node1" title="A converter from TCP segments to serialized IPv4 datagrams." alt="" coords="167,80,316,107"/>
+<area shape="rect" id="node3" href="$class_t_c_p_over_i_pv4_over_ethernet_adapter.html" title="A FD adapter for IPv4 datagrams read from and written to a TAP device." alt="" coords="5,155,232,181"/>
+<area shape="rect" id="node4" href="$class_t_c_p_over_i_pv4_over_tun_fd_adapter.html" title="A FD adapter for IPv4 datagrams read from and written to a TUN device." alt="" coords="257,155,471,181"/>
+<area shape="rect" id="node2" href="$class_fd_adapter_base.html" title="Basic functionality for file descriptor adaptors." alt="" coords="185,5,297,32"/>
 </map>

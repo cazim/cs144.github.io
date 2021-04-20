@@ -1,9 +1,10 @@
 <map id="/home/cs144/sponge/libsponge/util/eventloop.hh" name="/home/cs144/sponge/libsponge/util/eventloop.hh">
-<area shape="rect" id="node2" href="$bidirectional__stream__copy_8cc.html" title="/home/cs144/sponge\l/apps/bidirectional\l_stream_copy.cc" alt="" coords="103,95,246,151"/>
-<area shape="rect" id="node3" href="$tcp__sponge__socket_8hh.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_sponge_socket.hh" alt="" coords="271,95,428,151"/>
-<area shape="rect" id="node8" href="$eventloop_8cc.html" title="/home/cs144/sponge\l/libsponge/util/eventloop.cc" alt="" coords="453,102,633,143"/>
-<area shape="rect" id="node4" href="$tcp__ip__ethernet_8cc.html" title="/home/cs144/sponge\l/apps/tcp_ip_ethernet.cc" alt="" coords="5,206,171,247"/>
-<area shape="rect" id="node5" href="$tcp__ipv4_8cc.html" title="/home/cs144/sponge\l/apps/tcp_ipv4.cc" alt="" coords="195,206,338,247"/>
-<area shape="rect" id="node6" href="$tcp__udp_8cc.html" title="/home/cs144/sponge\l/apps/tcp_udp.cc" alt="" coords="362,206,505,247"/>
-<area shape="rect" id="node7" href="$tcp__sponge__socket_8cc.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_sponge_socket.cc" alt="" coords="529,199,687,255"/>
+<area shape="rect" id="node1" title=" " alt="" coords="259,5,439,47"/>
+<area shape="rect" id="node2" href="$bidirectional__stream__copy_8cc.html" title=" " alt="" coords="103,95,246,151"/>
+<area shape="rect" id="node3" href="$tcp__sponge__socket_8hh.html" title=" " alt="" coords="271,95,428,151"/>
+<area shape="rect" id="node8" href="$eventloop_8cc.html" title=" " alt="" coords="453,102,633,143"/>
+<area shape="rect" id="node4" href="$tcp__ip__ethernet_8cc.html" title=" " alt="" coords="5,206,171,247"/>
+<area shape="rect" id="node5" href="$tcp__ipv4_8cc.html" title=" " alt="" coords="195,206,338,247"/>
+<area shape="rect" id="node6" href="$tcp__udp_8cc.html" title=" " alt="" coords="362,206,505,247"/>
+<area shape="rect" id="node7" href="$tcp__sponge__socket_8cc.html" title=" " alt="" coords="529,199,687,255"/>
 </map>

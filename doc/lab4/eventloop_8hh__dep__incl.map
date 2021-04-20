@@ -1,8 +1,9 @@
 <map id="/home/cs144/sponge/libsponge/util/eventloop.hh" name="/home/cs144/sponge/libsponge/util/eventloop.hh">
-<area shape="rect" id="node2" href="$bidirectional__stream__copy_8cc.html" title="/home/cs144/sponge\l/apps/bidirectional\l_stream_copy.cc" alt="" coords="5,95,148,151"/>
-<area shape="rect" id="node3" href="$tcp__sponge__socket_8hh.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_sponge_socket.hh" alt="" coords="173,95,330,151"/>
-<area shape="rect" id="node7" href="$eventloop_8cc.html" title="/home/cs144/sponge\l/libsponge/util/eventloop.cc" alt="" coords="355,102,535,143"/>
-<area shape="rect" id="node4" href="$tcp__ipv4_8cc.html" title="/home/cs144/sponge\l/apps/tcp_ipv4.cc" alt="" coords="13,206,156,247"/>
-<area shape="rect" id="node5" href="$tcp__udp_8cc.html" title="/home/cs144/sponge\l/apps/tcp_udp.cc" alt="" coords="180,206,323,247"/>
-<area shape="rect" id="node6" href="$tcp__sponge__socket_8cc.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_sponge_socket.cc" alt="" coords="347,199,505,255"/>
+<area shape="rect" id="node1" title=" " alt="" coords="161,5,341,47"/>
+<area shape="rect" id="node2" href="$bidirectional__stream__copy_8cc.html" title=" " alt="" coords="5,95,148,151"/>
+<area shape="rect" id="node3" href="$tcp__sponge__socket_8hh.html" title=" " alt="" coords="173,95,330,151"/>
+<area shape="rect" id="node7" href="$eventloop_8cc.html" title=" " alt="" coords="355,102,535,143"/>
+<area shape="rect" id="node4" href="$tcp__ipv4_8cc.html" title=" " alt="" coords="13,206,156,247"/>
+<area shape="rect" id="node5" href="$tcp__udp_8cc.html" title=" " alt="" coords="180,206,323,247"/>
+<area shape="rect" id="node6" href="$tcp__sponge__socket_8cc.html" title=" " alt="" coords="347,199,505,255"/>
 </map>

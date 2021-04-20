@@ -1,3 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$tcp__config_8hh.html#class_fd_adapter_config" title="Config for classes derived from FdAdapter. " alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node1" href="$class_fd_adapter_base.html" title="Basic functionality for file descriptor adaptors." alt="" coords="5,56,117,83"/>
+<area shape="rect" id="node2" href="$class_t_c_p_over_i_pv4_adapter.html" title="A converter from TCP segments to serialized IPv4 datagrams." alt="" coords="187,31,336,57"/>
+<area shape="rect" id="node5" href="$class_t_c_p_over_u_d_p_socket_adapter.html" title="A FD adaptor that reads and writes TCP segments in UDP payloads." alt="" coords="165,81,357,108"/>
+<area shape="rect" id="node3" href="$class_t_c_p_over_i_pv4_over_ethernet_adapter.html" title="A FD adapter for IPv4 datagrams read from and written to a TAP device." alt="" coords="405,5,632,32"/>
+<area shape="rect" id="node4" href="$class_t_c_p_over_i_pv4_over_tun_fd_adapter.html" title="A FD adapter for IPv4 datagrams read from and written to a TUN device." alt="" coords="411,56,626,83"/>
 </map>

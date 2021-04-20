@@ -1,5 +1,6 @@
 <map id="/home/cs144/sponge/libsponge/tcp_receiver.hh" name="/home/cs144/sponge/libsponge/tcp_receiver.hh">
-<area shape="rect" id="node2" href="$tcp__state_8hh.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_state.hh" alt="" coords="5,95,157,151"/>
-<area shape="rect" id="node4" href="$tcp__receiver_8cc.html" title="/home/cs144/sponge\l/libsponge/tcp_receiver.cc" alt="" coords="182,102,357,143"/>
-<area shape="rect" id="node3" href="$tcp__state_8cc.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_state.cc" alt="" coords="5,199,157,255"/>
+<area shape="rect" id="node1" title=" " alt="" coords="88,5,261,47"/>
+<area shape="rect" id="node2" href="$tcp__state_8hh.html" title=" " alt="" coords="5,95,157,151"/>
+<area shape="rect" id="node4" href="$tcp__receiver_8cc.html" title=" " alt="" coords="181,102,355,143"/>
+<area shape="rect" id="node3" href="$tcp__state_8cc.html" title=" " alt="" coords="5,199,157,255"/>
 </map>

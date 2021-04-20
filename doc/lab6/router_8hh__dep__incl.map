@@ -1,4 +1,5 @@
 <map id="/home/cs144/sponge/libsponge/router.hh" name="/home/cs144/sponge/libsponge/router.hh">
-<area shape="rect" id="node2" href="$network__simulator_8cc.html" title="/home/cs144/sponge\l/apps/network_simulator.cc" alt="" coords="5,95,188,136"/>
-<area shape="rect" id="node3" href="$router_8cc.html" title="/home/cs144/sponge\l/libsponge/router.cc" alt="" coords="212,95,355,136"/>
+<area shape="rect" id="node1" title=" " alt="" coords="118,5,261,47"/>
+<area shape="rect" id="node2" href="$network__simulator_8cc.html" title=" " alt="" coords="5,95,187,136"/>
+<area shape="rect" id="node3" href="$router_8cc.html" title=" " alt="" coords="211,95,354,136"/>
 </map>

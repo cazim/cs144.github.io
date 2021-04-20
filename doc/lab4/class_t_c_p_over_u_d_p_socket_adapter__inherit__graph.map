@@ -1,6 +1,4 @@
 <map id="TCPOverUDPSocketAdapter" name="TCPOverUDPSocketAdapter">
-<area shape="rect" id="node2" href="$class_fd_adapter_base.html" title="Basic functionality for file descriptor adaptors. " alt="" coords="5,155,117,181"/>
-<area shape="rect" id="node3" href="$class_u_d_p_socket.html" title="A wrapper around UDP sockets. " alt="" coords="142,155,234,181"/>
-<area shape="rect" id="node4" href="$class_socket.html" title="Base class for network sockets (TCP, UDP, etc.) " alt="" coords="157,80,219,107"/>
-<area shape="rect" id="node5" href="$class_file_descriptor.html" title="A reference&#45;counted handle to a file descriptor. " alt="" coords="137,5,239,32"/>
+<area shape="rect" id="node1" title="A FD adaptor that reads and writes TCP segments in UDP payloads." alt="" coords="5,80,197,107"/>
+<area shape="rect" id="node2" href="$class_fd_adapter_base.html" title="Basic functionality for file descriptor adaptors." alt="" coords="45,5,157,32"/>
 </map>

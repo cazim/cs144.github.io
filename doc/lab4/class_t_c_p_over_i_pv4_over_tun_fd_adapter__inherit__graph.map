@@ -1,4 +1,5 @@
 <map id="TCPOverIPv4OverTunFdAdapter" name="TCPOverIPv4OverTunFdAdapter">
-<area shape="rect" id="node2" href="$class_fd_adapter_base.html" title="Basic functionality for file descriptor adaptors. " alt="" coords="5,5,117,32"/>
-<area shape="rect" id="node3" href="$class_file_descriptor.html" title="A reference&#45;counted handle to a file descriptor. " alt="" coords="142,5,245,32"/>
+<area shape="rect" id="node1" title="A FD adapter for IPv4 datagrams read from and written to a TUN device." alt="" coords="5,155,220,181"/>
+<area shape="rect" id="node2" href="$class_t_c_p_over_i_pv4_adapter.html" title="A converter from TCP segments to serialized IPv4 datagrams." alt="" coords="38,80,187,107"/>
+<area shape="rect" id="node3" href="$class_fd_adapter_base.html" title="Basic functionality for file descriptor adaptors." alt="" coords="57,5,169,32"/>
 </map>

@@ -1,6 +1,7 @@
 <map id="/home/cs144/sponge/apps/bidirectional_stream_copy.hh" name="/home/cs144/sponge/apps/bidirectional_stream_copy.hh">
-<area shape="rect" id="node2" href="$bidirectional__stream__copy_8cc.html" title="/home/cs144/sponge\l/apps/bidirectional\l_stream_copy.cc" alt="" coords="5,109,148,165"/>
-<area shape="rect" id="node3" href="$tcp__ipv4_8cc.html" title="/home/cs144/sponge\l/apps/tcp_ipv4.cc" alt="" coords="172,117,315,158"/>
-<area shape="rect" id="node4" href="$tcp__native_8cc.html" title="/home/cs144/sponge\l/apps/tcp_native.cc" alt="" coords="339,117,481,158"/>
-<area shape="rect" id="node5" href="$tcp__udp_8cc.html" title="/home/cs144/sponge\l/apps/tcp_udp.cc" alt="" coords="505,117,648,158"/>
+<area shape="rect" id="node1" title=" " alt="" coords="255,5,397,61"/>
+<area shape="rect" id="node2" href="$bidirectional__stream__copy_8cc.html" title=" " alt="" coords="5,109,148,165"/>
+<area shape="rect" id="node3" href="$tcp__ipv4_8cc.html" title=" " alt="" coords="172,117,315,158"/>
+<area shape="rect" id="node4" href="$tcp__native_8cc.html" title=" " alt="" coords="339,117,481,158"/>
+<area shape="rect" id="node5" href="$tcp__udp_8cc.html" title=" " alt="" coords="505,117,648,158"/>
 </map>

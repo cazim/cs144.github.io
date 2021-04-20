@@ -54,7 +54,7 @@ Your style grade may also include components of functionality not covered by the
         Long Answer: The make target, <code>check</code>, runs the entire sponge test suite. The full test suite requires a shell script, <code>tun.sh</code>, which you won't get until a later lab. The make target <code>check_lab0</code> will just test lab0. You should be able to run it with the lab0 starter code (although it will return an error until you've completed the lab!).</p>
 
         <li><b>What's the procedure if I want to use some of my late days?</b></li>
-        <p>To use a late day, please email the staff list (cs144-aut1920-staff@lists.stanford.edu) by the lab deadline, letting us know if you are using late days. With weekly labs, the CAs want to be able to get feedback to you quickly. As such, we will start grading as soon as the deadline passes, and want to avoid redundantly grading submissions that weren't intended to be final.</p>
+        <p>To use a late day, please email the staff list (cs144-staff@cs.stanford.edu) by the lab deadline, letting us know if you are using late days. With weekly labs, the CAs want to be able to get feedback to you quickly. As such, we will start grading as soon as the deadline passes, and want to avoid redundantly grading submissions that weren't intended to be final.</p>
 
         <li><b>How do I use <code>git</code>?</b></li>
 
@@ -97,12 +97,27 @@ Your style grade may also include components of functionality not covered by the
         </ul></p>
       </ol>
 
-      <h4>Lab 0</h4>
+ <h4>Lab 0</h4>
       <ol>
         <li><b>What should the behaviour of my program be if the caller tries to peek or pop with a <code>len</code> greater than what is available?</b></li>
         We don't have any preference on the behavior if the caller tries to peek or pop more than is available in the stream, as long as you behave reasonably and don't crash in that situation. If you want to peek/pop the maximum available, that is fine with us. If you want to throw an exception (either for an overlength peek or an overlength pop), that is also fine with us.
+
+	<li><b>How fast should my code be?</b></li>
+
+	  Here's a reasonable rule of thumb: if any of your tests are
+	  taking longer than 2 seconds, it's probably good to keep
+	exploring other ways of representing the ByteStream.
+	This lab doesn't require any sophisticated data structures,
+	but it might still take some trial-and-error to find a
+	reasonable approach. Sometimes "big-O" analysis can be
+	misleading about the performance of real programs&mdash;the
+	constant factors can matter a lot!
+	<p>
       </ol>
 
+
+      
+      <!--
       <h4>Lab 1</h4>
       <ol>
         <li><b>Which bytes should be accepted in a <code>push_substring</code> call?</b></li>
@@ -234,7 +249,7 @@ over and everything has been acknowledged (<b>FIN_ACKED</b>).
 
 <p>
 
-<img src="images/sender-evolution.svg">
+<img src="images/sender-evolution.svg"> -->
 
       </ol>
     </div>

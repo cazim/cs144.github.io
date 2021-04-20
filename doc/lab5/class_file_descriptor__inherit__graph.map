@@ -1,13 +1,13 @@
 <map id="FileDescriptor" name="FileDescriptor">
-<area shape="rect" id="node2" href="$class_socket.html" title="Base class for network sockets (TCP, UDP, etc.) " alt="" coords="232,97,295,123"/>
-<area shape="rect" id="node9" href="$class_t_c_p_over_i_pv4_over_tun_fd_adapter.html" title="A FD adapter for IPv4 datagrams read from and written to a TUN device. " alt="" coords="156,147,371,174"/>
-<area shape="rect" id="node10" href="$class_tun_tap_f_d.html" title="A FileDescriptor to a Linux TUN/TAP device. " alt="" coords="221,198,305,225"/>
-<area shape="rect" id="node3" href="$class_local_stream_socket.html" title="A wrapper around Unix&#45;domain stream sockets. " alt="" coords="419,46,555,73"/>
-<area shape="rect" id="node7" href="$class_t_c_p_socket.html" title="A wrapper around TCP sockets. " alt="" coords="441,97,532,123"/>
-<area shape="rect" id="node8" href="$class_u_d_p_socket.html" title="A wrapper around UDP sockets. " alt="" coords="441,147,533,174"/>
-<area shape="rect" id="node4" href="$class_t_c_p_sponge_socket.html" title="Multithreaded wrapper around TCPConnection that approximates the Unix sockets API. " alt="" coords="603,46,803,73"/>
-<area shape="rect" id="node5" href="$class_c_s144_t_c_p_socket.html" title="Helper class that makes a TCPOverIPv4SpongeSocket behave more like a (kernel) TCPSocket. " alt="" coords="851,5,1075,47"/>
-<area shape="rect" id="node6" href="$class_full_stack_socket.html" title="Helper class that makes a TCPOverIPv4overEthernetSpongeSocket behave more like a (kernel) TCPSocket..." alt="" coords="870,71,1055,112"/>
-<area shape="rect" id="node11" href="$class_tap_f_d.html" title="A FileDescriptor to a Linux TAP device. " alt="" coords="455,198,518,225"/>
-<area shape="rect" id="node12" href="$class_tun_f_d.html" title="A FileDescriptor to a Linux TUN device. " alt="" coords="455,249,518,275"/>
+<area shape="rect" id="node1" title="A reference&#45;counted handle to a file descriptor." alt="" coords="5,173,108,199"/>
+<area shape="rect" id="node2" href="$class_socket.html" title="Base class for network sockets (TCP, UDP, etc.)" alt="" coords="166,122,229,149"/>
+<area shape="rect" id="node9" href="$class_tun_tap_f_d.html" title="A FileDescriptor to a Linux TUN/TAP device." alt="" coords="156,198,239,225"/>
+<area shape="rect" id="node3" href="$class_local_stream_socket.html" title="A wrapper around Unix&#45;domain stream sockets." alt="" coords="287,46,423,73"/>
+<area shape="rect" id="node7" href="$class_t_c_p_socket.html" title="A wrapper around TCP sockets." alt="" coords="309,97,400,123"/>
+<area shape="rect" id="node8" href="$class_u_d_p_socket.html" title="A wrapper around UDP sockets." alt="" coords="309,147,401,174"/>
+<area shape="rect" id="node4" href="$class_t_c_p_sponge_socket.html" title="Multithreaded wrapper around TCPConnection that approximates the Unix sockets API." alt="" coords="471,46,669,73"/>
+<area shape="rect" id="node5" href="$class_c_s144_t_c_p_socket.html" title="Helper class that makes a TCPOverIPv4SpongeSocket behave more like a (kernel) TCPSocket." alt="" coords="717,5,941,47"/>
+<area shape="rect" id="node6" href="$class_full_stack_socket.html" title="Helper class that makes a TCPOverIPv4overEthernetSpongeSocket behave more like a (kernel) TCPSocket." alt="" coords="737,71,922,112"/>
+<area shape="rect" id="node10" href="$class_tap_f_d.html" title="A FileDescriptor to a Linux TAP device." alt="" coords="324,198,385,225"/>
+<area shape="rect" id="node11" href="$class_tun_f_d.html" title="A FileDescriptor to a Linux TUN device." alt="" coords="323,249,386,275"/>
 </map>

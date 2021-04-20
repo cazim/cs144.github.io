@@ -1,12 +1,13 @@
 <map id="/home/cs144/sponge/libsponge/tcp_helpers/tcp_over_ip.hh" name="/home/cs144/sponge/libsponge/tcp_helpers/tcp_over_ip.hh">
-<area shape="rect" id="node2" href="$network__interface_8hh.html" title="/home/cs144/sponge\l/libsponge/network_interface.hh" alt="" coords="172,117,379,158"/>
-<area shape="rect" id="node11" href="$tcp__over__ip_8cc.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_over_ip.cc" alt="" coords="403,109,555,165"/>
-<area shape="rect" id="node3" href="$network__interface_8cc.html" title="/home/cs144/sponge\l/libsponge/network_interface.cc" alt="" coords="5,221,212,262"/>
-<area shape="rect" id="node4" href="$tcp__sponge__socket_8hh.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_sponge_socket.hh" alt="" coords="311,317,469,373"/>
-<area shape="rect" id="node8" href="$tcp__sponge__socket_8cc.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_sponge_socket.cc" alt="" coords="137,421,294,477"/>
-<area shape="rect" id="node9" href="$tuntap__adapter_8hh.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tuntap_adapter.hh" alt="" coords="338,213,490,269"/>
-<area shape="rect" id="node5" href="$tcp__ip__ethernet_8cc.html" title="/home/cs144/sponge\l/apps/tcp_ip_ethernet.cc" alt="" coords="653,429,818,470"/>
-<area shape="rect" id="node6" href="$tcp__ipv4_8cc.html" title="/home/cs144/sponge\l/apps/tcp_ipv4.cc" alt="" coords="319,429,461,470"/>
-<area shape="rect" id="node7" href="$tcp__udp_8cc.html" title="/home/cs144/sponge\l/apps/tcp_udp.cc" alt="" coords="485,429,628,470"/>
-<area shape="rect" id="node10" href="$tuntap__adapter_8cc.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tuntap_adapter.cc" alt="" coords="493,317,645,373"/>
+<area shape="rect" id="node1" title=" " alt="" coords="301,5,453,61"/>
+<area shape="rect" id="node2" href="$network__interface_8hh.html" title=" " alt="" coords="172,117,379,158"/>
+<area shape="rect" id="node11" href="$tcp__over__ip_8cc.html" title=" " alt="" coords="403,109,555,165"/>
+<area shape="rect" id="node3" href="$network__interface_8cc.html" title=" " alt="" coords="5,221,212,262"/>
+<area shape="rect" id="node4" href="$tcp__sponge__socket_8hh.html" title=" " alt="" coords="311,317,469,373"/>
+<area shape="rect" id="node8" href="$tcp__sponge__socket_8cc.html" title=" " alt="" coords="137,421,294,477"/>
+<area shape="rect" id="node9" href="$tuntap__adapter_8hh.html" title=" " alt="" coords="338,213,490,269"/>
+<area shape="rect" id="node5" href="$tcp__ip__ethernet_8cc.html" title=" " alt="" coords="653,429,818,470"/>
+<area shape="rect" id="node6" href="$tcp__ipv4_8cc.html" title=" " alt="" coords="319,429,461,470"/>
+<area shape="rect" id="node7" href="$tcp__udp_8cc.html" title=" " alt="" coords="485,429,628,470"/>
+<area shape="rect" id="node10" href="$tuntap__adapter_8cc.html" title=" " alt="" coords="493,317,645,373"/>
 </map>

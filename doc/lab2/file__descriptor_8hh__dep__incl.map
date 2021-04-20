@@ -1,11 +1,12 @@
 <map id="/home/cs144/sponge/libsponge/util/file_descriptor.hh" name="/home/cs144/sponge/libsponge/util/file_descriptor.hh">
-<area shape="rect" id="node2" href="$eventloop_8hh.html" title="/home/cs144/sponge\l/libsponge/util/eventloop.hh" alt="" coords="5,117,185,158"/>
-<area shape="rect" id="node4" href="$file__descriptor_8cc.html" title="/home/cs144/sponge\l/libsponge/util/file\l_descriptor.cc" alt="" coords="209,109,352,165"/>
-<area shape="rect" id="node5" href="$socket_8hh.html" title="/home/cs144/sponge\l/libsponge/util/socket.hh" alt="" coords="377,117,539,158"/>
-<area shape="rect" id="node9" href="$tun_8hh.html" title="/home/cs144/sponge\l/libsponge/util/tun.hh" alt="" coords="653,117,796,158"/>
-<area shape="rect" id="node3" href="$eventloop_8cc.html" title="/home/cs144/sponge\l/libsponge/util/eventloop.cc" alt="" coords="5,213,185,255"/>
-<area shape="rect" id="node6" href="$webget_8cc.html" title="/home/cs144/sponge\l/apps/webget.cc" alt="" coords="211,213,353,255"/>
-<area shape="rect" id="node7" href="$socket__dt_8cc.html" title="/home/cs144/sponge\l/doctests/socket_dt.cc" alt="" coords="378,213,533,255"/>
-<area shape="rect" id="node8" href="$socket_8cc.html" title="/home/cs144/sponge\l/libsponge/util/socket.cc" alt="" coords="557,213,719,255"/>
-<area shape="rect" id="node10" href="$tun_8cc.html" title="/home/cs144/sponge\l/libsponge/util/tun.cc" alt="" coords="744,213,887,255"/>
+<area shape="rect" id="node1" title=" " alt="" coords="297,5,440,61"/>
+<area shape="rect" id="node2" href="$eventloop_8hh.html" title=" " alt="" coords="5,117,185,158"/>
+<area shape="rect" id="node4" href="$file__descriptor_8cc.html" title=" " alt="" coords="209,109,352,165"/>
+<area shape="rect" id="node5" href="$socket_8hh.html" title=" " alt="" coords="377,117,539,158"/>
+<area shape="rect" id="node9" href="$tun_8hh.html" title=" " alt="" coords="653,117,796,158"/>
+<area shape="rect" id="node3" href="$eventloop_8cc.html" title=" " alt="" coords="5,213,185,255"/>
+<area shape="rect" id="node6" href="$webget_8cc.html" title=" " alt="" coords="211,213,353,255"/>
+<area shape="rect" id="node7" href="$socket__dt_8cc.html" title=" " alt="" coords="378,213,533,255"/>
+<area shape="rect" id="node8" href="$socket_8cc.html" title=" " alt="" coords="557,213,719,255"/>
+<area shape="rect" id="node10" href="$tun_8cc.html" title=" " alt="" coords="744,213,887,255"/>
 </map>

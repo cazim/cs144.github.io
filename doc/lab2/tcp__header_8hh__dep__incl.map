@@ -1,9 +1,10 @@
 <map id="/home/cs144/sponge/libsponge/tcp_helpers/tcp_header.hh" name="/home/cs144/sponge/libsponge/tcp_helpers/tcp_header.hh">
-<area shape="rect" id="node2" href="$tcp__header_8cc.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_header.cc" alt="" coords="5,109,157,165"/>
-<area shape="rect" id="node3" href="$tcp__segment_8hh.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_segment.hh" alt="" coords="181,109,333,165"/>
-<area shape="rect" id="node4" href="$tcp__segment_8cc.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_segment.cc" alt="" coords="88,213,240,269"/>
-<area shape="rect" id="node5" href="$tcp__receiver_8hh.html" title="/home/cs144/sponge\l/libsponge/tcp_receiver.hh" alt="" coords="265,221,439,262"/>
-<area shape="rect" id="node6" href="$tcp__state_8hh.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_state.hh" alt="" coords="181,317,333,373"/>
-<area shape="rect" id="node8" href="$tcp__receiver_8cc.html" title="/home/cs144/sponge\l/libsponge/tcp_receiver.cc" alt="" coords="358,325,533,366"/>
-<area shape="rect" id="node7" href="$tcp__state_8cc.html" title="/home/cs144/sponge\l/libsponge/tcp_helpers\l/tcp_state.cc" alt="" coords="181,421,333,477"/>
+<area shape="rect" id="node1" title=" " alt="" coords="93,5,245,61"/>
+<area shape="rect" id="node2" href="$tcp__header_8cc.html" title=" " alt="" coords="5,109,157,165"/>
+<area shape="rect" id="node3" href="$tcp__segment_8hh.html" title=" " alt="" coords="181,109,333,165"/>
+<area shape="rect" id="node4" href="$tcp__segment_8cc.html" title=" " alt="" coords="88,213,240,269"/>
+<area shape="rect" id="node5" href="$tcp__receiver_8hh.html" title=" " alt="" coords="264,221,437,262"/>
+<area shape="rect" id="node6" href="$tcp__state_8hh.html" title=" " alt="" coords="181,317,333,373"/>
+<area shape="rect" id="node8" href="$tcp__receiver_8cc.html" title=" " alt="" coords="357,325,531,366"/>
+<area shape="rect" id="node7" href="$tcp__state_8cc.html" title=" " alt="" coords="181,421,333,477"/>
 </map>

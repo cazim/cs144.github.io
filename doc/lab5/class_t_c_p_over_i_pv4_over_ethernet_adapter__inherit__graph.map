@@ -1,4 +1,5 @@
 <map id="TCPOverIPv4OverEthernetAdapter" name="TCPOverIPv4OverEthernetAdapter">
-<area shape="rect" id="node2" href="$class_t_c_p_over_i_pv4_adapter.html" title="A converter from TCP segments to serialized IPv4 datagrams. " alt="" coords="44,80,193,107"/>
-<area shape="rect" id="node3" href="$class_fd_adapter_base.html" title="Basic functionality for file descriptor adaptors. " alt="" coords="63,5,175,32"/>
+<area shape="rect" id="node1" title="A FD adapter for IPv4 datagrams read from and written to a TAP device." alt="" coords="5,155,232,181"/>
+<area shape="rect" id="node2" href="$class_t_c_p_over_i_pv4_adapter.html" title="A converter from TCP segments to serialized IPv4 datagrams." alt="" coords="44,80,193,107"/>
+<area shape="rect" id="node3" href="$class_fd_adapter_base.html" title="Basic functionality for file descriptor adaptors." alt="" coords="63,5,175,32"/>
 </map>

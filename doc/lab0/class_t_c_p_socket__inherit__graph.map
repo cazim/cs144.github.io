@@ -1,4 +1,5 @@
 <map id="TCPSocket" name="TCPSocket">
-<area shape="rect" id="node2" href="$class_socket.html" title="Base class for network sockets (TCP, UDP, etc.) " alt="" coords="25,80,88,107"/>
-<area shape="rect" id="node3" href="$class_file_descriptor.html" title="A reference&#45;counted handle to a file descriptor. " alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node1" title="A wrapper around TCP sockets." alt="" coords="11,155,102,181"/>
+<area shape="rect" id="node2" href="$class_socket.html" title="Base class for network sockets (TCP, UDP, etc.)" alt="" coords="25,80,88,107"/>
+<area shape="rect" id="node3" href="$class_file_descriptor.html" title="A reference&#45;counted handle to a file descriptor." alt="" coords="5,5,108,32"/>
 </map>

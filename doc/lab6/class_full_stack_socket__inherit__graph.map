@@ -1,6 +1,7 @@
 <map id="FullStackSocket" name="FullStackSocket">
-<area shape="rect" id="node2" href="$class_t_c_p_sponge_socket.html" title="Multithreaded wrapper around TCPConnection that approximates the Unix sockets API. " alt="" coords="5,229,231,271"/>
-<area shape="rect" id="node3" href="$class_local_stream_socket.html" title="A wrapper around Unix&#45;domain stream sockets. " alt="" coords="50,155,186,181"/>
-<area shape="rect" id="node4" href="$class_socket.html" title="Base class for network sockets (TCP, UDP, etc.) " alt="" coords="87,80,149,107"/>
-<area shape="rect" id="node5" href="$class_file_descriptor.html" title="A reference&#45;counted handle to a file descriptor. " alt="" coords="67,5,169,32"/>
+<area shape="rect" id="node1" title="Helper class that makes a TCPOverIPv4overEthernetSpongeSocket behave more like a (kernel) TCPSocket." alt="" coords="59,319,177,345"/>
+<area shape="rect" id="node2" href="$class_t_c_p_sponge_socket.html" title="Multithreaded wrapper around TCPConnection that approximates the Unix sockets API." alt="" coords="5,229,231,271"/>
+<area shape="rect" id="node3" href="$class_local_stream_socket.html" title="A wrapper around Unix&#45;domain stream sockets." alt="" coords="50,155,186,181"/>
+<area shape="rect" id="node4" href="$class_socket.html" title="Base class for network sockets (TCP, UDP, etc.)" alt="" coords="87,80,149,107"/>
+<area shape="rect" id="node5" href="$class_file_descriptor.html" title="A reference&#45;counted handle to a file descriptor." alt="" coords="67,5,169,32"/>
 </map>
